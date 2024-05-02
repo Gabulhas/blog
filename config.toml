@@ -1,4 +1,5 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = "Gabulhas' blog"
-theme = 'mystyleplease'
+theme = ["hugo-embed-pdf-shortcode", 'mystyleplease']
+enableInlineShortcodes = true

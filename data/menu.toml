@@ -34,10 +34,10 @@ title = "Other"
 
   [[entries.entries]]
   title = "Resume"
-  url = "https://raw.githubusercontent.com/Gabulhas/resume/master/resume.pdf"
+  url = "https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/Gabulhas/resume/master/resume.pdf"
 
 
   [[entries.entries]]
   title = "Thesis: Blockchain Consensus Layer as a Plug-in"
-  url = "https://raw.githubusercontent.com/Gabulhas/thesis-Consensus-Protocol-as-a-Plugin/master/Tese.pdf"
+  url = "https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/Gabulhas/thesis-Consensus-Protocol-as-a-Plugin/master/Tese.pdf"
 

@@ -1,15 +1,15 @@
 {{- $posts := "" -}}
 
 {{- if .section -}}
-    {{- $posts = (where site.RegularPages "Section" .section) -}}
+    {{- $posts = (where site.RegularPages "Type" "posts") -}}
 {{- else -}}
     {{- if (eq .context.Kind "taxonomy") -}}
-        {{- $posts = .context.Pages -}}
+        {{- $posts = (where .context.Pages "Type" "posts") -}}
     {{- else -}}
         {{- if (eq .context.Kind "term") -}}
-            {{- $posts = .context.Data.Pages -}}
+            {{- $posts = (where .context.Data.Pages "Type" "posts") -}}
 	{{- else -}}
-            {{- $posts = site.RegularPages }}
+            {{- $posts = (where site.RegularPages "Type" "posts") -}}
 	{{- end -}}
     {{- end -}}
 {{- end -}}
