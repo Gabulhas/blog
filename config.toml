@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = "Gabulhas' blog"
-theme = 'nostyleplease'
+theme = 'mystyleplease'
