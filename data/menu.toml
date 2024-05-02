@@ -1,0 +1,43 @@
+[[entries]]
+title = "Socials"
+
+  [[entries.entries]]
+  title = "Github"
+  url = "https://github.com/Gabulhas"
+
+  [[entries.entries]]
+  title = "Gitlab"
+  url = "https://gitlab.com/Gabulhas"
+
+
+  [[entries.entries]]
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/guilherme-lopes-670753218/"
+
+  [[entries.entries]]
+  title = "Twitter: Deleted it. Was getting way to addicted to it."
+  url =""
+
+
+[[entries]]
+title = "Posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+
+[[entries]]
+title = "Other"
+
+  [[entries.entries]]
+  title = "Resume"
+  url = "https://raw.githubusercontent.com/Gabulhas/resume/master/resume.pdf"
+
+
+  [[entries.entries]]
+  title = "Thesis: Blockchain Consensus Layer as a Plug-in"
+  url = "https://raw.githubusercontent.com/Gabulhas/thesis-Consensus-Protocol-as-a-Plugin/master/Tese.pdf"
+
